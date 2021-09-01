@@ -1,0 +1,20 @@
+main{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 0px;
+}
+
+app-square {
+    border: 1px pink solid;
+    height: 100px;
+}
+ 
+button{
+    margin-bottom: 3em
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  }
