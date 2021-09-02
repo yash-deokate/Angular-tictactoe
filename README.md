@@ -1,5 +1,11 @@
 # Tic
 
+https://yashtic1234.web.app/
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/53117129/131761561-8d211b93-adf5-418d-b925-408862f3584a.gif)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
 ## Development server
